@@ -1,2 +1,0 @@
-# Optional browser evidence tool; uses the already installed Microsoft Edge.
-playwright==1.64.1

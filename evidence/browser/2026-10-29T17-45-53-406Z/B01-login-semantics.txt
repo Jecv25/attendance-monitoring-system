@@ -1,6 +1,0 @@
-Pulseboard
-Loading the monitoring dashboard…
-Pulseboard
-A clearer view of API health.
-Enter dashboard
-Fictional services. Controlled faults. Observable recovery.
