@@ -1,0 +1,47 @@
+{
+  "executed_at_utc": "2026-11-08T14:52:41.269Z",
+  "browser": "148.0.7778.179",
+  "command": "node scripts/browser.cjs",
+  "dataset": "Fictional seeded class and 12 learners",
+  "results": [
+    {
+      "scenario": "client required-field validation",
+      "result": "Passed"
+    },
+    {
+      "scenario": "teacher login → roster → save → finalize",
+      "result": "Passed",
+      "save_status": 200,
+      "finalize_status": 200
+    },
+    {
+      "scenario": "persisted report and audit history",
+      "result": "Passed"
+    },
+    {
+      "scenario": "unavailable service and retry recovery",
+      "result": "Passed"
+    },
+    {
+      "scenario": "responsive browser width 768",
+      "result": "Passed",
+      "scope": "visual capture; Flutter widget tests assert no layout exceptions"
+    },
+    {
+      "scenario": "responsive browser width 390",
+      "result": "Passed",
+      "scope": "visual capture; Flutter widget tests assert no layout exceptions"
+    },
+    {
+      "scenario": "keyboard focus",
+      "result": "Passed"
+    },
+    {
+      "scenario": "anonymous API access",
+      "expected_status": 401,
+      "actual_status": 401,
+      "result": "Passed"
+    }
+  ],
+  "page_errors": []
+}

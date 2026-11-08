@@ -1,0 +1,11 @@
+{
+  "executed_at_utc": "2026-11-08T14:48:28.354Z",
+  "results": [
+    {
+      "scenario": "client required-field validation",
+      "result": "Passed"
+    }
+  ],
+  "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByLabel('Your attendance overview').or(getByText('Your attendance overview')).first() to be visible\u001b[22m\n",
+  "page_errors": []
+}

@@ -1,0 +1,2 @@
+{"event": "notification_transition", "correlation_id": "reminder:1", "notification_id": 1, "attempt": 1, "status": "delivered", "category": null}
+{"event": "notification_transition", "correlation_id": "finalized:1", "notification_id": 2, "attempt": 1, "status": "delivered", "category": null}

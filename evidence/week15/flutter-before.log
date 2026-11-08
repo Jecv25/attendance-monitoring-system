@@ -1,0 +1,1179 @@
+00:00 +0: loading C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart
+00:00 +0: session restoration displays loading state
+00:00 +1: unauthenticated login validates required inputs
+00:01 +2: login opens real client success and empty states
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY RENDERING LIBRARY ╞═════════════════════════════════════════════════════════
+The following assertion was thrown during layout:
+A RenderFlex overflowed by 48 pixels on the right.
+
+The relevant error-causing widget was:
+  Row
+  Row:file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/lib/workspace.dart:415:22
+
+The overflowing RenderFlex has an orientation of Axis.horizontal.
+The edge of the RenderFlex that is overflowing has been marked in the rendering with a yellow and
+black striped pattern. This is usually caused by the contents being too big for the RenderFlex.
+Consider applying a flex factor (e.g. using an Expanded widget) to force the children of the
+RenderFlex to fit within the available space instead of being sized to their natural size.
+This is considered an error condition because it indicates that there is content that cannot be
+seen. If the content is legitimately bigger than the available space, consider clipping it with a
+ClipRect widget before putting it in the flex, or using a scrollable container rather than a Flex,
+like a ListView.
+The specific RenderFlex in question is: RenderFlex#70361 relayoutBoundary=up8 OVERFLOWING:
+  creator: Row ← Padding ← Column ← Padding ← MediaQuery ← Padding ← SafeArea ← ColoredBox ← Container
+    ← SizedBox ← Row ← KeyedSubtree-[GlobalKey#587cb] ← ⋯
+  parentData: offset=Offset(12.0, 0.0) (can use size)
+  constraints: BoxConstraints(0.0<=w<=192.0, 0.0<=h<=Infinity)
+  size: Size(192.0, 36.0)
+  direction: horizontal
+  mainAxisAlignment: start
+  mainAxisSize: max
+  crossAxisAlignment: center
+  textDirection: ltr
+  verticalDirection: down
+  spacing: 0.0
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following message was thrown:
+Multiple exceptions (15) were detected during the running of the current test, and at least one was
+unexpected.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:01 +2 -1: login opens real client success and empty states [E]
+  Test failed. See exception logs above.
+  The test description was: login opens real client success and empty states
+
+00:01 +2 -1: network failure can recover using Retry
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY RENDERING LIBRARY ╞═════════════════════════════════════════════════════════
+The following assertion was thrown during layout:
+A RenderFlex overflowed by 48 pixels on the right.
+
+The relevant error-causing widget was:
+  Row
+  Row:file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/lib/workspace.dart:415:22
+
+The overflowing RenderFlex has an orientation of Axis.horizontal.
+The edge of the RenderFlex that is overflowing has been marked in the rendering with a yellow and
+black striped pattern. This is usually caused by the contents being too big for the RenderFlex.
+Consider applying a flex factor (e.g. using an Expanded widget) to force the children of the
+RenderFlex to fit within the available space instead of being sized to their natural size.
+This is considered an error condition because it indicates that there is content that cannot be
+seen. If the content is legitimately bigger than the available space, consider clipping it with a
+ClipRect widget before putting it in the flex, or using a scrollable container rather than a Flex,
+like a ListView.
+The specific RenderFlex in question is: RenderFlex#317dd relayoutBoundary=up8 OVERFLOWING:
+  creator: Row ← Padding ← Column ← Padding ← MediaQuery ← Padding ← SafeArea ← ColoredBox ← Container
+    ← SizedBox ← Row ← KeyedSubtree-[GlobalKey#ab7d6] ← ⋯
+  parentData: offset=Offset(12.0, 0.0) (can use size)
+  constraints: BoxConstraints(0.0<=w<=192.0, 0.0<=h<=Infinity)
+  size: Size(192.0, 36.0)
+  direction: horizontal
+  mainAxisAlignment: start
+  mainAxisSize: max
+  crossAxisAlignment: center
+  textDirection: ltr
+  verticalDirection: down
+  spacing: 0.0
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following message was thrown:
+Multiple exceptions (22) were detected during the running of the current test, and at least one was
+unexpected.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:01 +2 -2: network failure can recover using Retry [E]
+  Test failed. See exception logs above.
+  The test description was: network failure can recover using Retry
+
+00:01 +2 -2: forbidden state is understandable
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY RENDERING LIBRARY ╞═════════════════════════════════════════════════════════
+The following assertion was thrown during layout:
+A RenderFlex overflowed by 48 pixels on the right.
+
+The relevant error-causing widget was:
+  Row
+  Row:file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/lib/workspace.dart:415:22
+
+The overflowing RenderFlex has an orientation of Axis.horizontal.
+The edge of the RenderFlex that is overflowing has been marked in the rendering with a yellow and
+black striped pattern. This is usually caused by the contents being too big for the RenderFlex.
+Consider applying a flex factor (e.g. using an Expanded widget) to force the children of the
+RenderFlex to fit within the available space instead of being sized to their natural size.
+This is considered an error condition because it indicates that there is content that cannot be
+seen. If the content is legitimately bigger than the available space, consider clipping it with a
+ClipRect widget before putting it in the flex, or using a scrollable container rather than a Flex,
+like a ListView.
+The specific RenderFlex in question is: RenderFlex#53684 relayoutBoundary=up8 OVERFLOWING:
+  creator: Row ← Padding ← Column ← Padding ← MediaQuery ← Padding ← SafeArea ← ColoredBox ← Container
+    ← SizedBox ← Row ← KeyedSubtree-[GlobalKey#3e26e] ← ⋯
+  parentData: offset=Offset(12.0, 0.0) (can use size)
+  constraints: BoxConstraints(0.0<=w<=192.0, 0.0<=h<=Infinity)
+  size: Size(192.0, 36.0)
+  direction: horizontal
+  mainAxisAlignment: start
+  mainAxisSize: max
+  crossAxisAlignment: center
+  textDirection: ltr
+  verticalDirection: down
+  spacing: 0.0
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following message was thrown:
+Multiple exceptions (22) were detected during the running of the current test, and at least one was
+unexpected.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:01 +2 -3: forbidden state is understandable [E]
+  Test failed. See exception logs above.
+  The test description was: forbidden state is understandable
+
+00:01 +2 -3: failed save preserves selections and retry idempotency key
+00:02 +3 -3: finalization requires explicit marking and saved changes
+00:02 +4 -3: supervisor attendance has read-only controls
+00:02 +5 -3: overview responsive at width 390.0
+00:02 +6 -3: overview responsive at width 768.0
+00:02 +7 -3: overview responsive at width 1440.0
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY RENDERING LIBRARY ╞═════════════════════════════════════════════════════════
+The following assertion was thrown during layout:
+A RenderFlex overflowed by 48 pixels on the right.
+
+The relevant error-causing widget was:
+  Row
+  Row:file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/lib/workspace.dart:415:22
+
+The overflowing RenderFlex has an orientation of Axis.horizontal.
+The edge of the RenderFlex that is overflowing has been marked in the rendering with a yellow and
+black striped pattern. This is usually caused by the contents being too big for the RenderFlex.
+Consider applying a flex factor (e.g. using an Expanded widget) to force the children of the
+RenderFlex to fit within the available space instead of being sized to their natural size.
+This is considered an error condition because it indicates that there is content that cannot be
+seen. If the content is legitimately bigger than the available space, consider clipping it with a
+ClipRect widget before putting it in the flex, or using a scrollable container rather than a Flex,
+like a ListView.
+The specific RenderFlex in question is: RenderFlex#1b338 relayoutBoundary=up8 OVERFLOWING:
+  creator: Row ← Padding ← Column ← Padding ← MediaQuery ← Padding ← SafeArea ← ColoredBox ← Container
+    ← SizedBox ← Row ← KeyedSubtree-[GlobalKey#3359d] ← ⋯
+  parentData: offset=Offset(12.0, 0.0) (can use size)
+  constraints: BoxConstraints(0.0<=w<=192.0, 0.0<=h<=Infinity)
+  size: Size(192.0, 36.0)
+  direction: horizontal
+  mainAxisAlignment: start
+  mainAxisSize: max
+  crossAxisAlignment: center
+  textDirection: ltr
+  verticalDirection: down
+  spacing: 0.0
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selected: true, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER FRAMEWORK ╞═════════════════════════════════════════════════════════
+The following assertion was thrown:
+ListTile background color or ink splashes may be invisible.
+The ListTile is wrapped in a ColoredBox that has a background color. Because ListTile paints its
+background and ink splashes on the nearest Material ancestor, this ColoredBox will hide those
+effects.
+To fix this, wrap the ListTile in its own Material widget, or remove the background color from the
+intermediate ColoredBox.
+
+ListTile:
+  ListTile(shape: RoundedRectangleBorder(BorderSide(width: 0.0, style: none), BorderRadius.circular(9.0)), selectedColor: Color(alpha: 1.0000, red: 0.6902, green: 0.9098, blue: 0.8549, colorSpace: ColorSpace.sRGB), iconColor: Color(alpha: 1.0000, red: 0.6118, green: 0.7020, blue: 0.7451, colorSpace: ColorSpace.sRGB), textColor: Color(alpha: 1.0000, red: 0.7373, green: 0.7961, blue: 0.8196, colorSpace: ColorSpace.sRGB), onTap: Closure: () => void, selectedTileColor: Color(alpha: 1.0000, red: 0.1569, green: 0.2941, blue: 0.3137, colorSpace: ColorSpace.sRGB))
+ColoredBox:
+  ColoredBox(color: Color(alpha: 1.0000, red: 0.0941, green: 0.1686, blue: 0.2078, colorSpace: ColorSpace.sRGB))
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: null
+  Actual: 'Multiple exceptions (15) were detected during the running of the current test, and at
+least one was unexpected.'
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/test/workflow_test.dart:243:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1953:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///C:/Users/HP/OneDrive/Documents/School%20Subjects/Sir%20Nacorda/Final/WEEKLY%20PROJECT%2013-18/Automated%20Data%20Backup%20Monitor/frontend/test/workflow_test.dart line 243
+The test description was:
+  overview responsive at width 1440.0
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:02 +7 -4: overview responsive at width 1440.0 [E]
+  Test failed. See exception logs above.
+  The test description was: overview responsive at width 1440.0
+
+00:02 +7 -4: Some tests failed.
+
+Failing tests:
+  C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart: forbidden state is understandable
+  C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart: login opens real client success and empty states
+  C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart: network failure can recover using Retry
+  C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart: overview responsive at width 1440.0

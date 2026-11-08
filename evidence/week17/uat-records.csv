@@ -1,0 +1,7 @@
+scenario_id,role,scenario,expected_result,actual_observation,finding,disposition,retest_evidence,acceptance,status
+UAT-01,Admin,Create student class roster and session,Records saved and teacher assigned,,,,,,Pending Human Participation
+UAT-02,Teacher,Record save review and finalize assigned attendance,Report and audit reflect confirmed attendance,,,,,,Pending Human Participation
+UAT-03,Teacher,Attempt another teacher class,Access denied without data disclosure,,,,,,Pending Human Participation
+UAT-04,Supervisor,Review reports and attempt modification,Reports readable and modification forbidden,,,,,,Pending Human Participation
+UAT-05,Teacher,Recover from interrupted attendance submission,Unsaved entries preserved and no duplicate attendance,,,,,,Pending Human Participation
+UAT-06,Admin,Review failed alert and queue recovery,Separate bounded recovery event is visible,,,,,,Pending Human Participation

@@ -1,0 +1,13 @@
+00:00 +0: loading C:/Users/HP/OneDrive/Documents/School Subjects/Sir Nacorda/Final/WEEKLY PROJECT 13-18/Automated Data Backup Monitor/frontend/test/workflow_test.dart
+00:00 +0: session restoration displays loading state
+00:00 +1: unauthenticated login validates required inputs
+00:01 +2: login opens real client success and empty states
+00:01 +3: network failure can recover using Retry
+00:01 +4: forbidden state is understandable
+00:01 +5: failed save preserves selections and retry idempotency key
+00:02 +6: finalization requires explicit marking and saved changes
+00:02 +7: supervisor attendance has read-only controls
+00:02 +8: overview responsive at width 390.0
+00:02 +9: overview responsive at width 768.0
+00:02 +10: overview responsive at width 1440.0
+00:02 +11: All tests passed!

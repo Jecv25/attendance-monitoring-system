@@ -1,0 +1,88 @@
+.F......................FF.FF.......                                     [100%]
+================================== FAILURES ===================================
+_________________________ test_dashboard_real_request _________________________
+
+teacher = <starlette.testclient.TestClient object at 0x000001F3DA05AB10>
+
+    def test_dashboard_real_request(teacher):
+        result = teacher.get('/api/dashboard')
+>       assert result.status_code == 200
+E       assert 500 == 200
+E        +  where 500 = <Response [500 Internal Server Error]>.status_code
+
+backend\tests\test_api.py:27: AssertionError
+------------------------------ Captured log call ------------------------------
+ERROR    attendance:main.py:61 {"event": "unhandled_error", "correlation_id": "9af3c42365284d4db5dd4d86c46d8d53"}
+__________________ test_security_headers_on_rejected_origin ___________________
+
+teacher = <starlette.testclient.TestClient object at 0x000001F3DA7CE350>
+
+    def test_security_headers_on_rejected_origin(teacher):
+        response = teacher.post('/api/auth/logout', headers={'Origin': 'https://untrusted.invalid'})
+        assert response.status_code == 403
+>       assert response.headers.get('x-content-type-options') == 'nosniff'
+E       AssertionError: assert None == 'nosniff'
+E        +  where None = get('x-content-type-options')
+E        +    where get = Headers({'content-length': '33', 'content-type': 'application/json'}).get
+E        +      where Headers({'content-length': '33', 'content-type': 'application/json'}) = <Response [403 Forbidden]>.headers
+
+backend\tests\test_security.py:63: AssertionError
+___________________ test_security_headers_on_oversize_body ____________________
+
+teacher = <starlette.testclient.TestClient object at 0x000001F3DA815C50>
+
+    def test_security_headers_on_oversize_body(teacher):
+        response = teacher.post('/api/auth/logout', content='x'*250001)
+        assert response.status_code == 413
+>       assert response.headers.get('x-correlation-id')
+E       AssertionError: assert None
+E        +  where None = get('x-correlation-id')
+E        +    where get = Headers({'content-length': '35', 'content-type': 'application/json'}).get
+E        +      where Headers({'content-length': '35', 'content-type': 'application/json'}) = <Response [413 Request Entity Too Large]>.headers
+
+backend\tests\test_security.py:70: AssertionError
+______________ test_exchange_tamper_replay_wrong_key_and_expiry _______________
+
+admin = <starlette.testclient.TestClient object at 0x000001F3DA8C2270>
+system = {'app': <fastapi.applications.FastAPI object at 0x000001F3DA889BD0>, 'db': <backend.app.database.Database object at 0x...estClient object at 0x000001F3DA8C1D30>, 'other': <starlette.testclient.TestClient object at 0x000001F3DA8C12B0>}, ...}
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x000001F3DA0403E0>
+
+    def test_exchange_tamper_replay_wrong_key_and_expiry(admin, system, monkeypatch):
+        sent = admin.post('/api/reports/exchange/send')
+>       assert sent.status_code == 200
+E       assert 500 == 200
+E        +  where 500 = <Response [500 Internal Server Error]>.status_code
+
+backend\tests\test_security.py:83: AssertionError
+------------------------------ Captured log call ------------------------------
+ERROR    attendance:main.py:61 {"event": "unhandled_error", "correlation_id": "75af187f096a440b932d67530f1cea65"}
+________________________ test_exchange_unavailable_key ________________________
+
+system = {'app': <fastapi.applications.FastAPI object at 0x000001F3DA867110>, 'db': <backend.app.database.Database object at 0x...estClient object at 0x000001F3DA948D70>, 'other': <starlette.testclient.TestClient object at 0x000001F3DA94A0B0>}, ...}
+
+    def test_exchange_unavailable_key(system):
+        client = TestClient(create_app(replace(system['settings'], report_key='')))
+        client.cookies.update(system['clients']['admin'].cookies)
+        client.headers['X-CSRF-Token'] = system['clients']['admin'].headers['X-CSRF-Token']
+>       assert client.post('/api/reports/exchange/send').status_code == 503
+E       AssertionError: assert 500 == 503
+E        +  where 500 = <Response [500 Internal Server Error]>.status_code
+E        +    where <Response [500 Internal Server Error]> = post('/api/reports/exchange/send')
+E        +      where post = <starlette.testclient.TestClient object at 0x000001F3DA947D90>.post
+
+backend\tests\test_security.py:103: AssertionError
+------------------------------ Captured log call ------------------------------
+ERROR    attendance:main.py:61 {"event": "unhandled_error", "correlation_id": "82ddeafa094b43b6a03b17a0c3ac882b"}
+============================== warnings summary ===============================
+.tools\python\Lib\site-packages\fastapi\testclient.py:1
+  C:\Users\HP\OneDrive\Documents\School Subjects\Sir Nacorda\Final\WEEKLY PROJECT 13-18\Automated Data Backup Monitor\.tools\python\Lib\site-packages\fastapi\testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+    from starlette.testclient import TestClient as TestClient  # noqa
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+FAILED backend/tests/test_api.py::test_dashboard_real_request - assert 500 ==...
+FAILED backend/tests/test_security.py::test_security_headers_on_rejected_origin
+FAILED backend/tests/test_security.py::test_security_headers_on_oversize_body
+FAILED backend/tests/test_security.py::test_exchange_tamper_replay_wrong_key_and_expiry
+FAILED backend/tests/test_security.py::test_exchange_unavailable_key - Assert...
+5 failed, 31 passed, 1 warning in 9.08s

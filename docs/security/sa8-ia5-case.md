@@ -1,0 +1,7 @@
+# SA8 architecture case and IA5 secure exchange
+
+The attendance service crosses an untrusted-browser boundary and a controlled report-exchange boundary. Authentication establishes the account; backend role/class checks establish permitted actions; HTTPS protects service transit; Argon2 protects stored password verification material; AES-GCM protects the minimized report envelope; persisted identity and expiry controls limit replay. None proves that a person physically attended class.
+
+Chosen approach uses established libraries and protected backend configuration rather than custom cryptography. The alternative is HTTPS-only exchange: adequate for transit while connected, but it does not protect a report after transport termination/storage. The encrypted exercise is justified by the report's educational-record confidentiality and integrity and satisfies the module's sender/receiver requirement. A public-signature design would add independent verification but needs signing-key operations outside the bounded shared-backend exercise.
+
+Submission artifacts: security objectives/classification/trust diagram, selected code paths, secret-free configuration example, actual transport/exchange/access tests, safe logging inspection, five-control activity, key lifecycle plan and residual risks. Link actual artifacts through `EVIDENCE_INDEX.md`; this case does not assert successful tests before they run.

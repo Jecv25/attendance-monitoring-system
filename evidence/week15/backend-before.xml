@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="5" skipped="0" tests="36" time="9.074" timestamp="2026-11-08T22:27:12.729707+08:00" hostname="JhonEric"><testcase classname="backend.tests.test_api" name="test_normal_save_finalize_report_audit" time="0.311" /><testcase classname="backend.tests.test_api" name="test_dashboard_real_request" time="0.205"><failure message="assert 500 == 200&#10; +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code">teacher = &lt;starlette.testclient.TestClient object at 0x000001F3DA05AB10&gt;
+
+    def test_dashboard_real_request(teacher):
+        result = teacher.get('/api/dashboard')
+&gt;       assert result.status_code == 200
+E       assert 500 == 200
+E        +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code
+
+backend\tests\test_api.py:27: AssertionError</failure></testcase><testcase classname="backend.tests.test_api" name="test_admin_registration_path" time="0.266" /><testcase classname="backend.tests.test_api" name="test_pending_and_finalization_rules" time="0.214" /><testcase classname="backend.tests.test_api" name="test_idempotent_retries_and_key_payload_conflict" time="0.268" /><testcase classname="backend.tests.test_api" name="test_conflict_and_correction" time="0.297" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload0]" time="0.223" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload1]" time="0.219" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload2]" time="0.202" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload3]" time="0.201" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload4]" time="0.203" /><testcase classname="backend.tests.test_api" name="test_invalid_attendance_is_atomic[payload5]" time="0.203" /><testcase classname="backend.tests.test_api" name="test_atomic_mixed_roster_rejection" time="0.211" /><testcase classname="backend.tests.test_api" name="test_roster_snapshot_survives_changes" time="0.215" /><testcase classname="backend.tests.test_api" name="test_not_found_and_boundary_limits" time="0.231" /><testcase classname="backend.tests.test_api" name="test_schedule_boundaries[2026-11-09T09:00:00-2026-11-09T10:00:00]" time="0.204" /><testcase classname="backend.tests.test_api" name="test_schedule_boundaries[2026-11-09T10:00:00Z-2026-11-09T09:00:00Z]" time="0.220" /><testcase classname="backend.tests.test_api" name="test_schedule_boundaries[2026-11-09T09:00:00Z-2026-11-11T09:00:00Z]" time="0.220" /><testcase classname="backend.tests.test_api" name="test_api_contract" time="0.235" /><testcase classname="backend.tests.test_security" name="test_unauthenticated_invalid_and_expired_sessions" time="0.218" /><testcase classname="backend.tests.test_security" name="test_role_object_access_and_csrf" time="0.281" /><testcase classname="backend.tests.test_security" name="test_logout_revokes_session" time="0.210" /><testcase classname="backend.tests.test_security" name="test_invalid_login_rate_limit_and_safe_validation" time="0.499" /><testcase classname="backend.tests.test_security" name="test_cookie_hash_and_security_headers" time="0.203" /><testcase classname="backend.tests.test_security" name="test_security_headers_on_rejected_origin" time="0.207"><failure message="AssertionError: assert None == 'nosniff'&#10; +  where None = get('x-content-type-options')&#10; +    where get = Headers({'content-length': '33', 'content-type': 'application/json'}).get&#10; +      where Headers({'content-length': '33', 'content-type': 'application/json'}) = &lt;Response [403 Forbidden]&gt;.headers">teacher = &lt;starlette.testclient.TestClient object at 0x000001F3DA7CE350&gt;
+
+    def test_security_headers_on_rejected_origin(teacher):
+        response = teacher.post('/api/auth/logout', headers={'Origin': 'https://untrusted.invalid'})
+        assert response.status_code == 403
+&gt;       assert response.headers.get('x-content-type-options') == 'nosniff'
+E       AssertionError: assert None == 'nosniff'
+E        +  where None = get('x-content-type-options')
+E        +    where get = Headers({'content-length': '33', 'content-type': 'application/json'}).get
+E        +      where Headers({'content-length': '33', 'content-type': 'application/json'}) = &lt;Response [403 Forbidden]&gt;.headers
+
+backend\tests\test_security.py:63: AssertionError</failure></testcase><testcase classname="backend.tests.test_security" name="test_security_headers_on_oversize_body" time="0.213"><failure message="AssertionError: assert None&#10; +  where None = get('x-correlation-id')&#10; +    where get = Headers({'content-length': '35', 'content-type': 'application/json'}).get&#10; +      where Headers({'content-length': '35', 'content-type': 'application/json'}) = &lt;Response [413 Request Entity Too Large]&gt;.headers">teacher = &lt;starlette.testclient.TestClient object at 0x000001F3DA815C50&gt;
+
+    def test_security_headers_on_oversize_body(teacher):
+        response = teacher.post('/api/auth/logout', content='x'*250001)
+        assert response.status_code == 413
+&gt;       assert response.headers.get('x-correlation-id')
+E       AssertionError: assert None
+E        +  where None = get('x-correlation-id')
+E        +    where get = Headers({'content-length': '35', 'content-type': 'application/json'}).get
+E        +      where Headers({'content-length': '35', 'content-type': 'application/json'}) = &lt;Response [413 Request Entity Too Large]&gt;.headers
+
+backend\tests\test_security.py:70: AssertionError</failure></testcase><testcase classname="backend.tests.test_security" name="test_password_whitespace_preserved" time="0.297" /><testcase classname="backend.tests.test_security" name="test_exchange_tamper_replay_wrong_key_and_expiry" time="0.201"><failure message="assert 500 == 200&#10; +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code">admin = &lt;starlette.testclient.TestClient object at 0x000001F3DA8C2270&gt;
+system = {'app': &lt;fastapi.applications.FastAPI object at 0x000001F3DA889BD0&gt;, 'db': &lt;backend.app.database.Database object at 0x...estClient object at 0x000001F3DA8C1D30&gt;, 'other': &lt;starlette.testclient.TestClient object at 0x000001F3DA8C12B0&gt;}, ...}
+monkeypatch = &lt;_pytest.monkeypatch.MonkeyPatch object at 0x000001F3DA0403E0&gt;
+
+    def test_exchange_tamper_replay_wrong_key_and_expiry(admin, system, monkeypatch):
+        sent = admin.post('/api/reports/exchange/send')
+&gt;       assert sent.status_code == 200
+E       assert 500 == 200
+E        +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code
+
+backend\tests\test_security.py:83: AssertionError</failure></testcase><testcase classname="backend.tests.test_security" name="test_exchange_unavailable_key" time="0.220"><failure message="AssertionError: assert 500 == 503&#10; +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code&#10; +    where &lt;Response [500 Internal Server Error]&gt; = post('/api/reports/exchange/send')&#10; +      where post = &lt;starlette.testclient.TestClient object at 0x000001F3DA947D90&gt;.post">system = {'app': &lt;fastapi.applications.FastAPI object at 0x000001F3DA867110&gt;, 'db': &lt;backend.app.database.Database object at 0x...estClient object at 0x000001F3DA948D70&gt;, 'other': &lt;starlette.testclient.TestClient object at 0x000001F3DA94A0B0&gt;}, ...}
+
+    def test_exchange_unavailable_key(system):
+        client = TestClient(create_app(replace(system['settings'], report_key='')))
+        client.cookies.update(system['clients']['admin'].cookies)
+        client.headers['X-CSRF-Token'] = system['clients']['admin'].headers['X-CSRF-Token']
+&gt;       assert client.post('/api/reports/exchange/send').status_code == 503
+E       AssertionError: assert 500 == 503
+E        +  where 500 = &lt;Response [500 Internal Server Error]&gt;.status_code
+E        +    where &lt;Response [500 Internal Server Error]&gt; = post('/api/reports/exchange/send')
+E        +      where post = &lt;starlette.testclient.TestClient object at 0x000001F3DA947D90&gt;.post
+
+backend\tests\test_security.py:103: AssertionError</failure></testcase><testcase classname="backend.tests.test_worker" name="test_transient_recovers_and_deduplicates" time="0.268" /><testcase classname="backend.tests.test_worker" name="test_permanent_failure_escalates_without_retry" time="0.243" /><testcase classname="backend.tests.test_worker" name="test_exhaustion_bounded_and_restart_recovery" time="0.270" /><testcase classname="backend.tests.test_worker" name="test_expired_lease_recovers_after_restart" time="0.283" /><testcase classname="backend.tests.test_worker" name="test_missed_detection_not_automatic_absence" time="0.281" /><testcase classname="backend.tests.test_worker" name="test_provider_timeout_is_bounded" time="0.285" /><testcase classname="backend.tests.test_worker" name="test_readiness_and_manual_recovery" time="0.330" /></testsuite></testsuites>

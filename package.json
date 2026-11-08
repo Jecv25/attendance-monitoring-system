@@ -1,0 +1,6 @@
+{
+  "name": "attendance-monitoring-system",
+  "private": true,
+  "scripts": {"test:browser": "node scripts/browser.cjs"},
+  "devDependencies": {"playwright": "^1.58.2"}
+}

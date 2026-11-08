@@ -1,0 +1,9 @@
+{
+  "scenario": "Trusted local CA under Python 3.13 strict certificate verification",
+  "command": "httpx.get('https://localhost:8443/api/health/live', verify=ssl.create_default_context(cafile='.local/tls/ca.pem'), timeout=3)",
+  "expected": "Validated TLS handshake and HTTP 200",
+  "actual": "CERTIFICATE_VERIFY_FAILED: Missing Authority Key Identifier",
+  "result": "Failed",
+  "disposition": "Add authority/subject key identifiers and explicit key usages to generated test certificates; retain strict verification and rerun.",
+  "timing": "Captured during the first live evaluation on 2026-11-08; exact command timestamp was not retained."
+}
