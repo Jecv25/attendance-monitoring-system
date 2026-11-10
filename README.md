@@ -24,6 +24,8 @@ Open **http://127.0.0.1:8000**. The API serves the compiled Flutter app and `/ap
 .\scripts\run.ps1 -SkipBuild
 ```
 
+Startup automatically clears a stale run record when its processes have exited (for example, after restarting Windows). If both recorded processes are still active, it prints the existing URL without starting duplicates. For a partial run, use `scripts/stop.ps1` before starting again. Stop the existing run before rebuilding or switching HTTP/HTTPS profiles.
+
 The seed is idempotent: one fictional class, twelve learners, one session and three accounts. It preserves existing records and passwords. Re-running setup does not reset attendance. For a fresh demonstration, configure a separate database path and seed it; evaluation already creates an isolated database per run.
 
 ## Development and commands
